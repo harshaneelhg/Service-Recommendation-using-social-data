@@ -24,7 +24,7 @@ def get_categories(mid):
     return cat
 
 
-api_key = 'AIzaSyAIdslDRT7g_Ep1hK40dORKw0FLaXBR1xE'
+api_key = 'your_api_key'
 query = 'state farm'
 service_url = 'https://www.googleapis.com/freebase/v1/search'
 params = {
